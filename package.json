@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "source-map-support": "^0.5.21",
+    "typescript": "^5.0.2"
   }
 }
